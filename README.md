@@ -16,7 +16,8 @@ Open the `index.html` file in each folder in a browser (no server needed).
 ## Screenshots
 ### Q1
 ![Q1 before](screenshots/q1-before.png)
-![Q1 after](screenshots/q1-after.png)
+![Q1 after]<img width="194" height="177" alt="q1-after" src="https://github.com/user-attachments/assets/d999fd12-bb57-4304-a170-64c0ec9e3038" />
+
 
 ### Q2
 ![Q2 before](screenshots/q2-before.png)
