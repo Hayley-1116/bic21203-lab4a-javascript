@@ -25,6 +25,13 @@ Open the `index.html` file in each folder in a browser (no server needed).
 
 ![Q2 after]<img width="375" height="159" alt="q2-after" src="https://github.com/user-attachments/assets/d7d1091a-f285-4004-b845-4f65474d9109" />
 
+<img width="320" height="107" alt="Screenshot 2026-11-17 113001" src="https://github.com/user-attachments/assets/02ff8cbc-f370-4a18-913f-7a50f10c39f8" />
+<img width="282" height="135" alt="Screenshot 2026-11-17 113016" src="https://github.com/user-attachments/assets/380626fe-fb2d-4074-9baf-76114e285a5a" />
+<img width="297" height="168" alt="Screenshot 2026-11-17 113030" src="https://github.com/user-attachments/assets/ba7c8e04-6ad4-40ee-a5d2-5b86524fe930" />
+<img width="252" height="129" alt="Screenshot 2026-11-17 113117" src="https://github.com/user-attachments/assets/18bd401c-e68c-4a86-a523-fd0ef2b0c903" />
+<img width="296" height="93" alt="Screenshot 2026-11-17 113141" src="https://github.com/user-attachments/assets/ea2ef438-81c3-42f3-b05f-9ef3a7e955b9" />
+<img width="315" height="162" alt="Screenshot 2026-11-17 113157" src="https://github.com/user-attachments/assets/7bbb3bdf-d6fa-4fca-9f69-181fbaa2c663" />
+
 
 
 ### Q3
